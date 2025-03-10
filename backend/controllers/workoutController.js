@@ -1,5 +1,5 @@
 const Workout = require('../moldels/WorkoutModel')
-const  = require('mongoose')
+const  mongoose= require('mongoose')
 
 //get all workouts
 const getWorkouts = async(req, res) => {
