@@ -4,8 +4,7 @@ const Navbar = () => {
     return (        
         <header>
             <div className="container">
-                <Link to = "/">
-        
+                <Link to = "/">        
                 <h1>Active Track</h1>
                 </Link>
             </div>
